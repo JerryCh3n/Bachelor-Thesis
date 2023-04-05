@@ -350,6 +350,4 @@ MigrationBackup/
 .ionide/
 
 *.ods
-*.png
 *.xlsx
-*.csv
