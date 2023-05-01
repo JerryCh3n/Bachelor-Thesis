@@ -27,7 +27,7 @@ Utilizes Charlie Pilgrim's iterative piecewise regression package ([link](https:
 
 Jupyter notebook documents the thought process followed in the construction of the neural network, hyperparameter selection, and findings. Utilizes a feedforward multilayer perception model.
 
-## ldr_sampling.ipynb
+### ldr_sampling.ipynb
 
 Jupyter notebook visually explains why high-value LDR values are sampled less even though the sample space uses an uniform sampling method (Latin hypercube).
 
