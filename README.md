@@ -14,6 +14,9 @@ Measures line width by approximating the line as a parallelogram. Processing ste
 5. Count the total number of white pixels in image 3. Divide the sum by the length from part 4 to get the line width. This is just Height=Area/Length
 6. Multiply the line width in pixels by the image scale
 
+![](./width_process.png)
+
+
 ### linear_regression_plots.ipynb
 
 Jupyter notebook that documents the thought process followed to arrive at a segmented linear regression model.
